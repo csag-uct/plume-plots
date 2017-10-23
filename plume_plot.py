@@ -314,5 +314,5 @@ for text in leg.get_texts():
     text.set_size(8)
 
 fig.subplots_adjust(left=0.1, right=0.95, top=0.85, bottom=0.2, hspace=0.6, wspace=0.3)
-plt.savefig(statcode+"_zambia.jpg")
+plt.savefig("plume_"+statcode+".jpg")
 
