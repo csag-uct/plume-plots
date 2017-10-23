@@ -3,9 +3,13 @@
 # plots time series of those with marking significant difference compared to a reference period 
 # significance of differences calculated as pvalue of Mann-Whitney test
 # CI calculated through bootstrapping differences in medians
+#
 # Piotr Wolski, May 2016
 #
-#
+# citation: Wolski P., Jack C., Steynor A., Coop L., 2016, Improving visualizations of climate projection information.  In: Proceedings of 32nd Annual Conference of the South African Society for Atmospheric Sciences. ISBN: 978-0-620-72974-1, pp. 140-144.
+# 
+# copyright: hmm... need to thing about this one...
+# 
 
 import matplotlib
 matplotlib.use('Agg')
